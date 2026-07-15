@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+library_data.json
+.DS_Store
